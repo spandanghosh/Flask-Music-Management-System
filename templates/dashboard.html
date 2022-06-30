@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+{% block body %}
+<h1>Welcome {{session.username}} </h1>
+
+
+<hr>
+<table class="table table-stripped table-hover">
+<a href="/playlists" class="btn btn-info" role="button">Your Playlists</a>
+
+{% endblock %}
