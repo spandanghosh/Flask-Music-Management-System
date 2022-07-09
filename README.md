@@ -1,4 +1,4 @@
-# Flask-Music-Mangement-System
+# Flask-Music-Management-System
 A music management system where users can upload songs of their choice, create playlists and play music with the help of a simple HTML play button.
 ### Prerequisites
     Python 3.0,flask module
